@@ -16,7 +16,6 @@ document.addEventListener(
 export const ColorOptions = () => {
     let html = "<select id='color'> <option value='0'>Choose Color</option>"
     
-
     const chosenColor = colors.map(color => {
         return `<option value="${color.id}" /> ${color.color}</option>`
     })
