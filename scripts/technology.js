@@ -15,7 +15,6 @@ document.addEventListener(
 
 
 
-
 export const TechOptions = () => {
     let html = "<select id='tech'> <option value='0'>Choose Tech</option>"
     

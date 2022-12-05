@@ -14,7 +14,6 @@ document.addEventListener(
 
 
 
-
 export const WheelDesign = () => {
     let html = "<ul>"
 

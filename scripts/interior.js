@@ -13,7 +13,6 @@ document.addEventListener(
 )
 
 
-
 export const InteriorDesign = () => {
     let html = "<ul>"
 
